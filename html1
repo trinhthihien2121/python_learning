@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Website!</title>
+    </head>
+    <body>
+        <h1>MY FIRST HTML FORM</h1>
+        <form action="" method="get">
+            <input type="text" name="name" placeholder="Enter Your Name">
+            <input type="checkbox">
+            <button>Submit</button>
+        </form>
+    </body>
+</html>
